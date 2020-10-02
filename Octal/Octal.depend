@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601330272 source:e:\download file\iti\c lang\day1\octal\main.c
+	<stdio.h>
+	<stdlib.h>
+
