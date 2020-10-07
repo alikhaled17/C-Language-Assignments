@@ -1,0 +1,17 @@
+
+
+4- Explain the output of the following 	
+			int x = 10, y =3;
+			printf("%d",x+++++y);
+	#Answer:
+		outbut == error
+		why ?!
+		if you want print(x+++++y) 
+		you are not doing just print but Actually you want do assignment operation,
+		so you should Lvlaue must be a place Not operation
+
+5- Why bitwise operators ?!
+	# Answer After Search but i am not good with this answer :) 
+
+	bitwise operators are not common in real world applications but often used in Encryption/Compression
+	bitwise operators are logical operators faster becouse operate based on bit level

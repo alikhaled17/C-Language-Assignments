@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601509826 source:e:\download file\iti\c lang\day3\even_odd\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,22 @@
+4- Self Study Topics with sample codes.
+
+	1- const vs #define (Constants)
+		# Answer: 
+			After searching on the internet:
+				define:
+					+ substitution of marco takes place at preprocessing stage
+					+ No memory required
+					+ No semicolon required
+					+ Execution in fast and efficiant 
+					+ No need to mention data type 
+				const :
+					+ substitution of value takes place at runtime
+					+ Depending on the type pf data memory is required
+					+ require a semicolon 
+					+ slower compared to define
+					+ data type must be specified
+	
+        2- Can scanf work as getc, getchar, getche, getch
+		# answer:
+			After more searching:
+				can i use "scanf()" with loop to do same action for gets.

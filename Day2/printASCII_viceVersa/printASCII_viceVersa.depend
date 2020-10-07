@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601331672 source:e:\download file\iti\c lang\day2\printascii_viceversa\main.c
+	<stdio.h>
+	<stdlib.h>
+

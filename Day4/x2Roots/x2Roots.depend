@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601654204 source:e:\download file\iti\c lang\day4\x2roots\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

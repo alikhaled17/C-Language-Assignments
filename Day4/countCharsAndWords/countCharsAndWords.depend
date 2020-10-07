@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601657179 source:e:\download file\iti\c lang\day4\countcharsandwords\main.c
+	<stdio.h>
+	<string.h>
+
