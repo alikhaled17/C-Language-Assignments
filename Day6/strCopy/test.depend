@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602113396 source:e:\download file\iti\c lang\day6\test\main.c
+	<stdio.h>
+	<string.h>
+
